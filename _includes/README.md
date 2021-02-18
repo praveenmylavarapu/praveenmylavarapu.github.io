@@ -1,9 +1,10 @@
-- 🏢 I'm currently working as a Software Engineer at Goldman Sachs, Bengaluru.
+- 👋 Hey there! My name is Sai Praveen.
+- 🏢 I am a Software Engineer at Goldman Sachs, Bengaluru.
 - 🎓 I graduated with an M.Sc. in Theoretical Computer Science from PSG College of Technology, Coimbatore.
 - 🔭 I’m currently working on software supply chain component analysis.
-- 🌱 I’m currently learning to develop cloud native cross platfrom applications.
-- 💻 When I'm not working, I like to read cool articles around the Internet, work on my side projects or binge watch TV series.
-- 💬 Ask me about: Sofware Development, Cloud Deployment, Open Source, Tech News.
+- 🌱 I’m currently learning to develop cross-platform applications.
+- 💻 When I'm not working, I like to read cool articles and blogs around the Internet, work on my side projects or binge watch post apocalyptic TV series.
+- 💬 Ask me about: software development, cloud deployment, open-source software, tech news.
 - 📫 How to reach me: Email or DM on LinkedIn.
 - ⚡ Fun fact: I can read, write and speak 5 languages.
 
