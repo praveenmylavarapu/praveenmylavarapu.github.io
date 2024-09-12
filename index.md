@@ -15,6 +15,6 @@ sitemap:
 }
 </style>
 
-<img src="/assets/img/SaiPraveen2018.jpg" class="center" alt="Sai Praveen"/>
+<img src="/assets/img/SaiPraveen2024.jpg" class="center" alt="Sai Praveen"/>
 
 {% include README.md %}
